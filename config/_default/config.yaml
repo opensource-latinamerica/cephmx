@@ -1,0 +1,33 @@
+enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
+enableGitInfo: true
+IsMultiLingual: true
+defaultContentLanguage: es
+defaultContentLanguageInSubdir: false
+
+pagination:
+  pagerSize: 5
+  path: page
+
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+  author: authors
+  social: socials
+
+build:
+  writeStats: true
+
+permalinks:
+  news: /news/:year/:month/:title/
+  blog: /blog/:year/:month/:title/
+
+security:
+  funcs:
+    getenv: ['^HUGO_', '^CI$', 'PWD']
+
+services:
+  googleAnalytics:
+    ID: G-91V61NR6L9
