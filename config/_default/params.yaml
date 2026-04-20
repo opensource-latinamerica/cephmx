@@ -14,7 +14,7 @@ keywords: "ceph, storage, Mexico, community, comunidad"
 # metaRobots: noindex, nofollow # Default value for Meta Tag robots
 # metaRobots:  # disable Meta Tag robots
 
-logo: "images/author.png"
+logo: "images/ceph-mexico-logo.png"
 color: "light"
 palettes: []
 palette: "red"
@@ -235,7 +235,7 @@ feeds:
 author:
   name: "Ceph Mexico"
   bio: "Ceph Storage Community in Mexico."
-  avatar: "images/author.png"
+  avatar: "images/ceph-mexico-logo.png"
 
 social:
   github: opensource-latinamerica/cephmx
