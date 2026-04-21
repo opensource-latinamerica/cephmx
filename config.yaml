@@ -1,4 +1,4 @@
 title: Ceph Mexico
 copyright: 'Copyright © 2022-{year} Ceph Mexico Community. All Rights Reserved.'
-baseURL: https://ceph.mx
+baseURL: https://ceph.mx/
 theme: hugo-theme-bootstrap
