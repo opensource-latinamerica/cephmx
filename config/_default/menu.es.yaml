@@ -3,19 +3,19 @@ main:
   - name: Blog
     identifier: blog
     weight: 1
-    url: "/es/blog"
+    url: "/blog"
     params:
       icon: '<i class="fas fa-fw fa-terminal"></i>'
   - name: Noticias
     identifier: Noticias
     weight: 2
-    url: "/es/news"
+    url: "/news"
     params:
       icon: '<i class="fas fa-fw fa-newspaper"></i>'
   - name: Autores
     identifier: autores
     weight: 3
-    url: "/es/authors"
+    url: "/authors"
     params:
       icon: '<i class="fas fa-fw fa-heart"></i>'
 ---
