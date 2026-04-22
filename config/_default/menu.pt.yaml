@@ -18,10 +18,4 @@ main:
     url: "/pt/authors"
     params:
       icon: '<i class="fas fa-fw fa-heart"></i>'
-  - name: Eventos
-    identifier: Eventos
-    weight: 100
-    url: "/pt/events"
-    params:
-      icon: '<i class="fas fa-fw fa-bug"></i>'
 ---
