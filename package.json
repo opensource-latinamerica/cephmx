@@ -50,9 +50,10 @@
     "katex": "^0.16.21",
     "mark.js": "^8.11.1",
     "masonry-layout": "^4.2.2",
-    "mermaid": "^11.12.3",
+    "mermaid": "^11.15.0",
     "mustache": "^4.2.0",
     "onchange": "^7.1.0",
+    "postcss": "^8.5.14",
     "postcss-cli": "^9.1.0",
     "rtlcss": "^3.5.0",
     "viewerjs": "^1.10.4",
@@ -62,9 +63,9 @@
     "workbox-routing": "^6.4.2",
     "workbox-strategies": "^6.4.2"
   },
-  "name": "oss.lat",
+  "name": "ceph.mx",
   "version": "0.1.0",
   "license": "CC0-1.0",
-  "url": "https://oss.lat",
-  "repository": "https://github.com/opensource-latinamerica/osslat"
+  "url": "https://ceph.mx",
+  "repository": "https://github.com/opensource-latinamerica/cephmx"
 }
